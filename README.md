@@ -1,3 +1,3 @@
 # hello-world
 practical
-n
+no
